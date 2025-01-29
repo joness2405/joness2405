@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @joness2405<br>👀 I’m interested in full-stack development, mobile app development, Software Testing, and software engineering<br>🌱 I’m currently learning React Native, Flutter, and advanced backend development<br>💞️ I’m looking to collaborate on web and mobile applications, open-source projects, and real-time communication systems<br>📫 How to reach me: joneslourdusamy@gmail.com | https://www.linkedin.com/in/jones-sagayaraj/<br>⚡ Fun fact: I love listening to music, playing badminton, and spending time with pets!
+👋 Hi, I’m @joness2405<br>👀 I’m interested in full-stack development, mobile app development, Software Testing, and software engineering<br>🌱 I’m currently learning React Native, Flutter, and advanced backend development<br>💞️ I’m looking to collaborate on web and mobile applications, open-source projects, and real-time communication systems<br>📫 How to reach me: joneslourdusamy@gmail.com | https://www.linkedin.com/in/jones-sagayaraj/ | https://jones-portfolio.netlify.app/ <br>⚡ Fun fact: I love listening to music, playing badminton, and spending time with pets!
 
 
 ## 🌐 Socials:
